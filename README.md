@@ -1,5 +1,6 @@
-### Hi there 👋
+### What's up people? 👋
 
+### ⚡ Fun fact: tomato is a fruit not a vegetable!
 <!--
 **chrissvian/chrissvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
